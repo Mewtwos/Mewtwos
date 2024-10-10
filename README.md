@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mewtwos/count.svg" />
 </p>
+
+- 😄 I’m a master's student currently learning remote sensing image interpretation
